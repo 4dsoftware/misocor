@@ -9,7 +9,7 @@ MIsoCor is a software tool for the correction for natural abundance in isotope l
 
 Purpose
 -------
-1. To fix the issues that IsoCor has in efficiency and linear regression. 
+1. To fix the issues that IsoCor has with efficiency and linear regression. 
 2. To provide a MATLAB tool that can easily be incorporated into exisiting pipelines for metabolic tracer and flux analysis. 
 
 
