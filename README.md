@@ -4,7 +4,7 @@ MIsoCor
 
 
 
-Intoruction
+Introduction
 -------
 MIsoCor is a software tool for the correction for natural abundance and isotopic impurity in isotope labeling experiments. It is revised from IsoCor, which was published a few years ago. The purpose of the revision is
 
