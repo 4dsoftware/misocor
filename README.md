@@ -26,5 +26,3 @@ Though there exist fundamental issues with IsoCor, its contribution to the field
 Citations
 --------
 1. Millard, P., et al. IsoCor: correcting MS data in isotope labeling experiments. Bioinformatics 2012;28(9):1294-1296
-
-2. Du, D., Wang, Y. Mass spectrometry data correction in isotope labeling experiments: in response to the application note of IsoCor (submitted to Bioinformatics)
